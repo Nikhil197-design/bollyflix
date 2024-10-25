@@ -11,7 +11,11 @@ body{
     background-color: #100F10;
     color: aliceblue;
 }
+header{
+    margin-left: 20vw;
+}
 nav{
+    position: fixed;
     border-right: 0.5px solid rgb(255,255,255,0.3);
     width: 20vw;
     height: 100vh;
@@ -119,4 +123,43 @@ nav li{
     .slider{
         height: 400px;
     }
+}
+hr{
+    color: rgb(255,255,255,0.3);
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.panel{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    justify-content: space-around;
+}
+.item1{
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    height: 70vh;
+    width: 25%;
+    background-color: #2A272A;
+}
+.item1 img{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 100%;
+    height: 70%;
+}
+.panel div{
+    cursor: pointer;
+    transition: 0.1s ease-out;
+}
+.panel div:hover{
+    transition: 0.1s ease-in;
+    transform: scale(1.02);
+}
+.panel h4{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
 }

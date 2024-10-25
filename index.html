@@ -65,7 +65,86 @@
                     <li></li>
                 </ul>
             </div>
+            <h1 style="margin-top: 40px; margin-left: 60px; color: white;">Latest</h1>
+            <div class="panel">
+                <div class="item1" onclick="openMoviePage('Venom: The Last Dance')">
+                    <img src="/img/movies/venom_2024.jpg" alt="">
+                    <h4>Download Venom: The Last Dance (2024) Hindi Movie 480p | 720p | 1080p CAMRip</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Deadpool & Wolverine')">
+                    <img src="/img/movies/deadpool3.jpg" alt="">
+                    <h4>Download Deadpool & Wolverine (2024) Dual Audio [Hindi (Line)-English] Movie 480p | 720p | 1080p WEB-DL ESub</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Stree 2')">
+                    <img src="/img/movies/stree2.jpg" alt="">
+                    <h4>Download Stree 2: Sarkate Ka Aatank (2024) Hindi Movie 480p | 720p | 1080p | 2160p WEB-DL ESub</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Kalki 2898 AD')">
+                    <img src="/img/movies/kalki.webp" alt="">
+                    <h4>Download Kalki 2898 AD (2024) Hindi Movie 480p | 720p | 1080p | 2160p WEB-DL ESub</h4>
+                </div>
+            </div><hr>
+            <h1 style="margin-top: 40px; margin-left: 60px; color: white;">Most Popular</h1>
+            <div class="panel">
+                <div class="item1" onclick="openMoviePage('Breaking Bad')">
+                    <img src="/img/movies/brbad.jpg" alt="">
+                    <h4>Download Breaking Bad (Season 1 – 5) Dual Audio {Hindi-English} AMC WEB Series 480p | 720p | 1080p BluRay ESub</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Money Heist')">
+                    <img src="/img/movies/moneyheist.jpg" alt="">
+                    <h4>Download Money Heist Dual Audio {Hindi-English} NetFlix WEB Series 480p | 720p | 1080p WEB-DL ESubs</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Mirzapur')">
+                    <img src="/img/movies/mirzapur.jpg" alt="">
+                    <h4>Download Mirzapur (Season 1 – 3) Hindi Amazon Prime WEB Series 480p | 720p | 1080p | 2160p WEB-DL ESub</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Panchayat')">
+                    <img src="/img/movies/panchayat.jpeg" alt="">
+                    <h4>Download Panchayat (Season 1 – 3) Hindi Amazon Prime WEB Series 480p | 720p | 1080p | 2160p WEB-DL ESub</h4>
+                </div>
+            </div><hr>
+            <div class="panel">
+                <div class="item1" onclick="openMoviePage('Peaky Blinders')">
+                    <img src="/img/movies/peakyblinders.jpg" alt="">
+                    <h4>Download Peaky Blinders English WEB Series 480p | 720p | 1080p BluRay ESub</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Interstellar')">
+                    <img src="/img/movies/interstellae.webp" alt="">
+                    <h4>Download Interstellar (2014) Dual Audio [Hindi-English] Movie 480p | 720p | 1080p | 2160p BluRay ESub</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Iron Man')">
+                    <img src="/img/movies/ironman.jpg" alt="">
+                    <h4>Download Iron Man (2008) Dual Audio {Hindi-English} Movie 480p | 720p | 1080p | 2160p BluRay ESub</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Oppenheimer')">
+                    <img src="/img/movies/oppen.jpg" alt="">
+                    <h4>Download Oppenheimer (2023) Dual Audio {Hindi-English} Movie 480p|720p|1080p|2160p IMAX BluRay ESub</h4>
+                </div>
+            </div><hr>
+            <div class="panel">
+                <div class="item1" onclick="openMoviePage('Avengers: Infinity War')">
+                    <img src="/img/movies/infinitywar.webp" alt="">
+                    <h4>Download Avengers: Infinity War (2018) Dual Audio {Hindi-English} Movie 480p | 720p | 1080p | 2160p BluRay ESub</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Avengers: Endgame')">
+                    <img src="/img/movies/endgame.webp" alt="">
+                    <h4>Download Avengers: Endgame (2019) Dual Audio {Hindi-English} Movie 480p | 720p | 1080p | 2160p BluRay ESub</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Fast X')">
+                    <img src="img/movies/fastx.jpeg" alt="">
+                    <h4>Download Fast X (2023) Dual Audio {Hindi-English} Movie 480p | 720p | 1080p WEB-DL ESub</h4>
+                </div>
+                <div class="item1" onclick="openMoviePage('Aquaman: The Lost Kingdom')">
+                    <img src="img/movies/aquaman2.jpg" alt="">
+                    <h4>Download Aquaman and the Lost Kingdom (2023) Dual Audio {Hindi-English} Movie 480p | 720p | 1080p | 2160p WEB-DL ESub</h4>
+                </div>
+            </div><hr>
         </header>
+        <script>
+            function openMoviePage(movieName) {
+                window.location.href = `/pages/movie.html?movie=${encodeURIComponent(movieName)}`;
+            }
+        </script>
         <script src="/JS/slider.js"></script>
     </div>
 </body>
