@@ -5,7 +5,7 @@
         "releaseYear": 2024,
         "genre": "Horror, Action",
         "director": "Kelly Marcel",
-        "imagePath": "/img/movies/venom_2024.jpg",
+        "imagePath": "../img/movies/venom_2024.jpg",
         "downloadUrl": "https://bollyflix.beer/venom-the-last-dance-2024-hindi-movie/"
     },
     {
@@ -14,7 +14,7 @@
         "releaseYear": 2024,
         "genre": "Action, Adventure",
         "director": "Shawn Levy",
-        "imagePath": "/img/movies/deadpool3.jpg",
+        "imagePath": "../img/movies/deadpool3.jpg",
         "downloadUrl": "https://bollyflix.beer/deadpool-wolverine-2024-dual-audio-hindi-line-english-movie/"
     },
     {
@@ -23,7 +23,7 @@
         "releaseYear": 2024,
         "genre": "Horror, Comedy",
         "director": "Amar Kaushik",
-        "imagePath": "/img/movies/stree2.jpg",
+        "imagePath": "../img/movies/stree2.jpg",
         "downloadUrl": "https://bollyflix.beer/stree-2-sarkate-ka-aatank-2024-hindi-movie/"
     },
     {
@@ -32,7 +32,7 @@
         "releaseYear": 2024,
         "genre": "Sci-fi, Mythology",
         "director": "Nag Ashwin",
-        "imagePath": "/img/movies/kalki.webp",
+        "imagePath": "../img/movies/kalki.webp",
         "downloadUrl": "https://bollyflix.beer/download-kalki-2898-ad-2024-hindi-movie/"
     },
     {
@@ -41,7 +41,7 @@
         "releaseYear": 2008,
         "genre": "Crime, Drama, Thriller",
         "director": "Vince Gilligan",
-        "imagePath": "/img/movies/brbad.jpg",
+        "imagePath": "../img/movies/brbad.jpg",
         "downloadUrl": "https://bollyflix.beer/breaking-bad-dual-audio-hindi-english-amc-web-series/"
     },
     {
@@ -50,7 +50,7 @@
         "releaseYear": 2017,
         "genre": "Crime, Drama, Thriller",
         "director": "Álex Pina",
-        "imagePath": "/img/movies/moneyheist.jpg",
+        "imagePath": "../img/movies/moneyheist.jpg",
         "downloadUrl": "https://bollyflix.beer/money-heist-s01-dual-audio-hindi-english-web-series/"
     },
     {
@@ -59,7 +59,7 @@
         "releaseYear": 2018,
         "genre": "Crime, Drama, Action",
         "director": "Puneet Krishna, Karan Anshuman",
-        "imagePath": "/img/movies/mirzapur.jpg",
+        "imagePath": "../img/movies/mirzapur.jpg",
         "downloadUrl": "https://bollyflix.beer/mirzapur-hindi-web-series/"
     },
     {
@@ -68,7 +68,7 @@
         "releaseYear": 2020,
         "genre": "Comedy, Drama",
         "director": "Deepak Kumar Mishra",
-        "imagePath": "/img/movies/panchayat.jpeg",
+        "imagePath": "../img/movies/panchayat.jpeg",
         "downloadUrl": "https://bollyflix.beer/panchayat-hindi-amazon-prime-web-series/"
     },
     {
@@ -77,7 +77,7 @@
         "releaseYear": 2013,
         "genre": "Crime, Drama",
         "director": "Steven Knight",
-        "imagePath": "/img/movies/peakyblinders.jpg",
+        "imagePath": "../img/movies/peakyblinders.jpg",
         "downloadUrl": "https://bollyflix.beer/peaky-blinders-s01-english-web-series/"
     },
     {
@@ -86,7 +86,7 @@
         "releaseYear": 2014,
         "genre": "Adventure, Drama, Sci-Fi",
         "director": "Christopher Nolan",
-        "imagePath": "/img/movies/interstellae.webp",
+        "imagePath": "../img/movies/interstellae.webp",
         "downloadUrl": "https://bollyflix.beer/interstellar-2014-dual-audio-hindi-english-movie/"
     },
     {
@@ -95,7 +95,7 @@
         "releaseYear": 2008,
         "genre": "Adventure, Action",
         "director": "Jon Favreau",
-        "imagePath": "/img/movies/ironman.jpg",
+        "imagePath": "../img/movies/ironman.jpg",
         "downloadUrl": "https://bollyflix.beer/iron-man-2008-dual-audio-hindi-english-movie/"
     },
     {
@@ -104,7 +104,7 @@
         "releaseYear": 2023,
         "genre": "Biography, Drama, History",
         "director": "Christopher Nolan",
-        "imagePath": "/img/movies/oppen.jpg",
+        "imagePath": "../img/movies/oppen.jpg",
         "downloadUrl": "https://bollyflix.beer/oppenheimer-2023-dual-audio-hindi-english-movie/"
     },
     {
@@ -113,7 +113,7 @@
         "releaseYear": 2018,
         "genre": "Action, Adventure, Sci-fi",
         "director": "Anthony Russo, Joe Russo",
-        "imagePath": "/img/movies/infinitywar.webp",
+        "imagePath": "../img/movies/infinitywar.webp",
         "downloadUrl": "https://bollyflix.beer/avengers-infinity-war-2018-dual-audio-hindi-english-movie/"
     },
     {
@@ -122,7 +122,7 @@
         "releaseYear": 2019,
         "genre": "Action, Adventure, Sci-fi",
         "director": "Anthony Russo, Joe Russo",
-        "imagePath": "/img/movies/endgame.webp",
+        "imagePath": "../img/movies/endgame.webp",
         "downloadUrl": "https://bollyflix.beer/download-avengers-endgame-2019-dual-audio-hindi-english/"
     },
     {
@@ -131,7 +131,7 @@
         "releaseYear": 2023,
         "genre": "Action, Adventure",
         "director": "Louis Leterrier",
-        "imagePath": "/img/movies/fastx.jpeg",
+        "imagePath": "../img/movies/fastx.jpeg",
         "downloadUrl": "https://bollyflix.beer/fast-x-2023-dual-audio-hindi-english-movie/"
     },
     {
@@ -140,7 +140,7 @@
         "releaseYear": 2023,
         "genre": "Action, Adventure",
         "director": "James Wan",
-        "imagePath": "/img/movies/aquaman2.jpg",
+        "imagePath": "../img/movies/aquaman2.jpg",
         "downloadUrl": "https://bollyflix.beer/aquaman-and-the-lost-kingdom-2023-dual-audio-hindi-clean-english-movie/"
     }
 ]
